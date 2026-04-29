@@ -36,7 +36,7 @@ Classification supervisée de 7804 recettes à partir de variables nutritionnell
 ### 🗄️ Conception d'une base de données de santé – Access & SQL
 Modélisation et développement d'une base de données relationnelle sous Access pour la gestion des rendez-vous entre patientes et sages-femmes. Création de requêtes SQL (JOIN, GROUP BY), formulaires et états.  
 `SQL` `Access` `Modélisation de données` `Requêtes`  
-→ [Voir le projet](https://github.com/noor-seba/health-database-access)
+→ [Voir le projet](https://github.com/noor-seba/base-de-donnees-sage-femme)
 
 ---
 

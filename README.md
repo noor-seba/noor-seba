@@ -33,10 +33,10 @@ Classification supervisée de 7804 recettes à partir de variables nutritionnell
 `R` `LDA` `kNN` `CART` `ggplot2`  
 → [Voir le projet](https://github.com/noor-seba/diet-classification-R)
 
-### 🗄️ Conception d'une base de données de santé – Access
-Création d'une base pour le suivi d'activité de sages-femmes (tables, relations, requêtes).  
-`SQL` `Access` `Modélisation de données`  
-→ [Voir le projet](#) *(bientôt disponible)*
+### 🗄️ Conception d'une base de données de santé – Access & SQL
+Modélisation et développement d'une base de données relationnelle sous Access pour la gestion des rendez-vous entre patientes et sages-femmes. Création de requêtes SQL (JOIN, GROUP BY), formulaires et états.  
+`SQL` `Access` `Modélisation de données` `Requêtes`  
+→ [Voir le projet](https://github.com/noor-seba/health-database-access)
 
 ---
 
